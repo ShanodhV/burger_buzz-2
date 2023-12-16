@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647539702543",
+    "project_id": "burger-buzz-2e026",
+    "storage_bucket": "burger-buzz-2e026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647539702543:android:841331281ace424926dc7a",
+        "android_client_info": {
+          "package_name": "com.example.burger_buzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs-6Pbzh2U_yPy0buuRjO2WzYRwYmOj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
