@@ -2,7 +2,6 @@ import 'package:burger_buzz/pages/Home.dart';
 import 'package:burger_buzz/pages/bottomnav.dart';
 import 'package:burger_buzz/pages/login.dart';
 import 'package:burger_buzz/pages/onboard.dart';
-import 'package:burger_buzz/pages/signin_screen.dart';
 import 'package:burger_buzz/pages/signup.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';

@@ -1,4 +1,5 @@
 import 'package:burger_buzz/pages/Home.dart';
+import 'package:burger_buzz/pages/bottomnav.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -25,7 +26,7 @@ class _LogInState extends State<LogIn> {
       );
 
       Navigator.pushReplacement(
-          context, MaterialPageRoute(builder: (context) => Home()));
+          context, MaterialPageRoute(builder: (context) => BottomNav()));
     } catch (e) {
       print("Error during login: $e");
       // Handle login errors, you can display an error message to the user
