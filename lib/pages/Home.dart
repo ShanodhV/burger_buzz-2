@@ -1,7 +1,5 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, avoid_unnecessary_containers
 
-import 'dart:html';
-
 import 'package:burger_buzz/Widget/widget_support.dart';
 import 'package:burger_buzz/pages/details.dart';
 import 'package:flutter/material.dart';
@@ -161,7 +159,7 @@ class _HomeState extends State<Home> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Image.asset(
-                          "images/Doublechicken_burger.png",
+                          "images/burger.png",
                           height: 120,
                           width: 120,
                           fit: BoxFit.cover,
